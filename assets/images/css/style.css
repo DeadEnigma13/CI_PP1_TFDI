@@ -22,3 +22,12 @@ a {
     align-items: center;
     justify-content: center;
 }
+
+/* Hero Section */
+
+#hero {
+    background-image: url(/assets/images/The\ Feathered\ Duck\ Inn\ Hero\ Image.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
