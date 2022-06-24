@@ -30,4 +30,38 @@ a {
     background-size: cover;
     background-position: center;
     position: relative;
+    z-index: 1;
+}
+
+#hero::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #101010;
+    opacity: .6;
+    z-index: -1;
+}
+
+#hero h1 {
+    display: block;
+    width: fit;
+    font-size: 4rem;
+    position: relative;
+    color: #96a274;
+}
+
+#hero .cta {
+    display: inline-block;
+    padding: 10px 30px;
+    color:black;
+    background-color: transperant;
+    border: 2px solid black;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    margin-top: 30px;
+    transition: .3s ease background-color;
 }
