@@ -92,6 +92,113 @@ a {
     background-color: black;
 }
 
+/* about us section */
+
+#about-us {}
+
+#about-us .about-us-container {
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+#about-us .page-title {
+    font-size: 5rem;
+    font-weight: 300;
+    color: #96a274;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    text-align: center;
+}
+
+#about-us .about-us-top p {
+    font-size: 1.4em;
+    margin-top: 5px;
+    line-height: 2.5rem;
+    font-weight: 300px;
+    letter-spacing: .05rem;
+    font-family: 'IM Fell English SC', sans-serif;
+}
+
+#about-us .about-us-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#about-us .about-us-item {
+    flex-basis: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 15px;
+    background-image: url(/assets/images/The\ Feathered\ Duck\ Inn\ Hero\ Image.jpg);
+    background-size: cover;
+    margin: 15px 5%;
+    position: relative;
+    z-index: 1;
+}
+
+#about-us .about-us-item-2 {
+    flex-basis: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 15px;
+    background-image: url(/assets/images/Feathered\ Duck\ Inn\ Restaurant\ 2.jpg);
+    background-size: cover;
+    margin: 15px 5%;
+    position: relative;
+    z-index: 1;
+}
+
+#about-us .about-us-item-3 {
+    flex-basis: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 15px;
+    background-image: url(/assets/images/Feathered\ Duck\ Inn\ Team.jpg);
+    background-size: cover;
+    margin: 15px 5%;
+    position: relative;
+    z-index: 1;
+}
+
+#about-us .about-us-item::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: .2;
+    z-index: -1;
+}
+
+#about-us .about-us-item-2::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: .2;
+    z-index: -1;
+}
+
 /* Keyframes */
 
 @keyframes text_reveal_box {
