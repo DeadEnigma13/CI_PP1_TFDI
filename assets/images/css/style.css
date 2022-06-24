@@ -159,6 +159,7 @@ img {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 30px;
 }
 
 #about-us .about-us-item {
@@ -174,6 +175,7 @@ img {
     margin: 15px 5%;
     position: relative;
     z-index: 1;
+    overflow: hidden;
 }
 
 #about-us .about-us-item-2 {
@@ -289,6 +291,18 @@ img {
     color: #EBC7B2;
     text-align: left;
     line-height: 1.9rem;
+}
+
+/* Menus Section */
+
+#menus .page-title {
+    font-size: 5rem;
+    font-weight: 300;
+    color: #96a274;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    text-align: center;
 }
 
 /* Keyframes */
