@@ -24,7 +24,6 @@ a {
 }
 
 .container {
-    min-height: 100vh;
     width: 100%;
     display: flex;
     align-items: center;
@@ -203,6 +202,11 @@ img {
     font-family: 'IM Fell English SC', sans-serif;
 }
 
+#about-us .about-us-top {
+    width: 750px;
+    margin: 0 auto;
+}
+
 #about-us .about-us-bottom {
     display: flex;
     align-items: center;
@@ -354,6 +358,14 @@ img {
     text-align: center;
 }
 
+#menus .menus-container {
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
 #menus .menus {
     flex-direction: column;
     max-width: 1200px;
@@ -438,6 +450,15 @@ img {
     padding: 100px 20px;
 }
 
+#blog .blog-container {
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
+
 #blog .col-left {
     width: 400px;
     height: 560px;
@@ -518,6 +539,15 @@ img {
     margin: 0 auto;
 }
 
+#contact-us .contact-container {
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
+
 #contact-us .contact-title {
     font-size: 5rem;
     font-weight: 300;
@@ -582,6 +612,15 @@ img {
     padding-top: 50px;
     padding-bottom: 10px;
 }
+
+#footer .footer-container {
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
 
 #footer .social-icons {
     display: flex;
@@ -713,7 +752,7 @@ img {
         display: flex;
         flex-direction: row;
         padding: 0 0 0 0;
-        margin: 20px;
+        margin: 60px;
         justify-content: center;
     }
 
@@ -734,6 +773,18 @@ img {
         text-align: center;
         padding-left: 10px;
     }
+    
+}
 
-    /* Media Queries for Desktop */
+/* Media Queries for Desktop */
+
+@media only screen and (min-width: 1200px){
+    #about-us .about-us-bottom .about-us-item .about-us-item-2 .about-us-item-3 {
+        flex-basis: 22%;
+        margin: 1.5%;
+    }
+
+    /* Blog Section */
+
+
 }
