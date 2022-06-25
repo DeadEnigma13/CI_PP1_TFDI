@@ -571,7 +571,31 @@ img {
     padding-bottom: 10px;
 }
 
+#footer .social-icons {
+    display: flex;
+    margin-bottom: 30px;
+}
 
+#footer .social-note {
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
+    text-align: center;
+}
+
+#footer .social-note i {
+    filter: grayscale(1);
+}
+
+#footer .social-note:hover i {
+    filter: grayscale(0);
+    transition: .1s ease filter;
+}
+
+#footer p {
+    color: #96a274;
+    font-size: 1.5rem;
+}
 
 /* Keyframes */
 
