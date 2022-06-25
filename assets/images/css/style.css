@@ -305,6 +305,82 @@ img {
     text-align: center;
 }
 
+#menus .menus {
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+#menus .menus-header h1 {
+    margin-bottom: 40px;
+}
+
+#menus .all-menus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#menus .menu-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    margin: 30px auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+#menus .menu-info {
+    padding: 30px;
+    flex-basis: 50%;
+    background-color: white;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #EBC7B2;
+}
+
+#menus .menu-info h2 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+#menus .menu-info p {
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+#menus .menu-img {
+    flex-basis: 50%;
+    height: 300px;
+    overflow: hidden;
+}
+
+#menus .menu-img::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #101010;
+    opacity: 0.9;
+}
+
+#menus .menu-items:hover .menu-img img {
+    transform: scale(1.1);
+    transition: .5s ease;
+}
+
+
+
 /* Keyframes */
 
 @keyframes text_reveal_box {
