@@ -112,12 +112,13 @@ img {
 }
 
 #header img {
-    width: 17%;
+    width: 20%;
+    margin-left: 20px;
 }
 
-#header .header-container {
+#header .header.container {
     min-height: 8vh;
-    background-color: rgb(31, 30, 30, 0.24);
+    background-color: rgb(31, 30, 30, 0.75);
 }
 
 #header .nav-bar {
@@ -192,6 +193,8 @@ img {
     justify-content: center;
     z-index: 100;
     cursor: pointer;
+    transform: scale(.9);
+    margin-right: 20px;
 }
 
 #header .hamburger .bar {
@@ -321,7 +324,7 @@ img {
 }
 
 #about-us .about-us-top p {
-    font-size: 1.4em;
+    font-size: 2em;
     margin-top: 5px;
     line-height: 2.5rem;
     letter-spacing: .05rem;
@@ -524,13 +527,13 @@ img {
 #menus .menu-info {
     padding: 30px;
     flex-basis: 50%;
-    background-color: white;
     height: 100%;
     display: flex;
     align-items: flex-start;
     justify-content: center;
     flex-direction: column;
     background-color: #EBC7B2;
+    width: 100%;
 }
 
 #menus .menu-info h2 {
@@ -588,6 +591,7 @@ img {
 #blog .col-left {
     width: 400px;
     height: 560px;
+    margin: auto;
 }
 
 #blog .col-right {
@@ -637,7 +641,6 @@ img {
 
 #blog .col-right .cta {
     margin-bottom: 30px;
-    padding: 10px 20px;
     font-size: 2rem;
 }
 
