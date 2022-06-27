@@ -100,8 +100,81 @@ img {
     color: #96a274;
 }
 
+/* Header Section */
 
+#header {
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: auto;
+}
 
+#header img {
+    width: 17%;
+}
+
+#header .header-container {
+    min-height: 8vh;
+    background-color: rgb(31, 30, 30, 0.24);
+}
+
+#header .nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    max-width: 1300px;
+    padding: 0 10px;
+}
+
+#header .nav-list ul {
+    list-style: none;
+    position: absolute;
+    background-color: rgb(31, 30, 30);
+    width: 100vw;
+    height: 100vh;
+    /* left: 100%; */
+    left: 0;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    overflow-x: hidden;
+}
+
+#header .nav-list ul a {
+    font-size: 2rem;
+    font-weight: 500;
+    letter-spacing: .2rem;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 20px;
+    display: block;
+}
+
+#header .nav-list ul a::after {
+    content: attr(data-after);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    color: #96a274;
+    font-size: 10rem;
+    letter-spacing: 20px;
+    z-index: -1;
+    transition: .3s ease letter-spacing;
+}
+
+#header .nav-list ul li:hover a::after {
+    transform: translate(-50%, -50%) scale(1);
+    letter-spacing: initial;
+}
 
 /* Hero Section */
 
@@ -473,6 +546,7 @@ img {
     font-weight: 400;
     letter-spacing: .3rem;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 #blog .col-right h1 {
@@ -486,6 +560,7 @@ img {
 #blog .col-right p {
     margin-bottom: 20px;
     font-size: 1.7rem;
+    text-align: center;
 }
 
 #blog .col-right .cta {
@@ -718,6 +793,7 @@ img {
         width: 600px;
         height: 400px;
         padding-left: 60px;
+        margin: auto;
     }
 
     #blog .col-left .blog-img::after {
@@ -734,7 +810,7 @@ img {
     }
 
     #blog .col-right h1 {
-        text-align: left;
+        text-align: center;
     }
 
     /* Contact Us Section */
@@ -752,7 +828,7 @@ img {
         display: flex;
         flex-direction: row;
         padding: 0 0 0 0;
-        margin: 60px;
+        margin: auto;
         justify-content: center;
     }
 
