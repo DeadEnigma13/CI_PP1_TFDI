@@ -1027,6 +1027,7 @@ img {
 /* Media Queries for Desktop */
 
 @media only screen and (min-width: 1200px){
+    
     /* Header/Navbar */
 
     #header .hamburger {
@@ -1058,7 +1059,58 @@ img {
         margin: 1.5%;
     }
 
+    /* Booking Section */
 
+    /* Booking Section */ 
+
+    #booking p {
+        color: #96a274;
+        text-align: center;
+        font-size: 5rem;
+        justify-content: center;
+    } 
+
+    #booking .your-name {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 17%;
+    }
+    
+    #booking .email {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 17%;
+    }
+    
+    #booking .date {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 17%;
+    }
+    
+    #booking .time {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 17%;
+    }
+    
+    #booking .people {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 17%;
+    }
+    
+    #booking .submit {
+        text-align: center;
+        min-height: 100%;
+        min-width: auto;
+        margin-top: 25px;
+    }
 
 
 }
