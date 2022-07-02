@@ -835,10 +835,29 @@ img {
 }
 
 #booking .submit {
+    justify-content: center;
+}
+
+#booking .cta {
+        display: inline-block;
+        padding: 10px 30px;
+        color: #96a274;
+        background-color: transperant;
+        border: 2px solid white;
+        font-size: 2rem;
+        text-transform: uppercase;
+        letter-spacing: .1rem;
+        margin-top: 30px;
+        transition: .3s ease;
+        transition-property: background-color, color;
+}
+
+/* Booking Complete Form */
+
+#hero .hero-container-1 p {
     text-align: center;
-    min-height: 100%;
-    min-width: auto;
-    margin-top: 25px;
+    color: white;
+    font-size: 2.5rem;
 }
 
 /* Keyframes */
