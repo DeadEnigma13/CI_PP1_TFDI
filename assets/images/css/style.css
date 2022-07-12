@@ -860,6 +860,46 @@ img {
     font-size: 2.5rem;
 }
 
+
+/* Meet The Team Page */
+
+#meet-the-team h1 {
+    text-align: center;
+    color: #96a274;
+    font-size: 5rem;
+}
+
+#meet-the-team p {
+    text-align: center;
+    color: #101010;
+    font-size: 2.5rem;
+    padding: 10px;
+}
+
+#meet-the-team .team {
+    float: left;
+    width: 50%;
+}
+
+#meet-the-team .team h1 {
+    color: #96a274;
+    font-size: 4rem;
+}
+
+#meet-the-team .team h3 {
+    color: #101010;
+    font-size: 2.5rem;
+    padding: 10px 50px;
+    margin: 0 auto;
+}
+
+#meet-the-team .team p {
+    color: #101010;
+    font-size: 1.9rem;
+
+}
+
+
 /* Keyframes */
 
 @keyframes text_reveal_box {
