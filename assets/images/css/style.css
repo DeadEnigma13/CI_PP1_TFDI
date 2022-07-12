@@ -863,33 +863,37 @@ img {
 
 /* Meet The Team Page */
 
-#meet-the-team h1 {
+#mtt {
+    min-height: 1500px;
+}
+
+#mtt .meet-the-team h1 {
     text-align: center;
     color: #96a274;
     font-size: 5rem;
     padding: 10px;
 }
 
-#meet-the-team p {
+#mtt .meet-the-team p {
     text-align: center;
     color: #101010;
     font-size: 2.5rem;
     padding: 10px;
 }
 
-#meet-the-team .team {
+#mtt .meet-the-team .team {
     float: left;
     width: 50%;
 }
 
-#meet-the-team .team h1 {
+#mtt .meet-the-team .team h1 {
     color: #96a274;
     font-size: 4rem;
 }
 
 /* Kitchen Team */
 
-#meet-the-team .team1 h3 {
+#mtt .meet-the-team .team1 h3 {
     color: #101010;
     font-size: 2.5rem;
     padding: 10px 50px;
@@ -897,18 +901,18 @@ img {
     margin: 0 auto;
 }
 
-#meet-the-team .team1 p {
+#mtt .meet-the-team .team1 p {
     color: #101010;
     font-size: 1.9rem;
 }
 
-#meet-the-team .team1 img {
+#mtt .meet-the-team .team1 img {
     float: right;
     height: 15%;
     width: 25%;
 }
 
-#meet-the-team .team-sous h3 {
+#mtt .meet-the-team .team-sous h3 {
     color: #101010;
     font-size: 2.5rem;
     padding: 10px 50px;
@@ -916,19 +920,19 @@ img {
     padding-top: 20px;
 }
 
-#meet-the-team .team-sous p {
+#mtt .meet-the-team .team-sous p {
     color: #101010;
     font-size: 1.9rem;
 }
 
-#meet-the-team .team-sous img {
+#mtt .meet-the-team .team-sous img {
     float: right;
     height: 15%;
     width: 25%;
     padding-top: 20px;
 }
 
-#meet-the-team .team-pastry h3 {
+#mtt .meet-the-team .team-pastry h3 {
     color: #101010;
     font-size: 2.5rem;
     padding: 10px 50px;
@@ -936,19 +940,19 @@ img {
     padding-top: 20px;
 }
 
-#meet-the-team .team-pastry p {
+#mtt .meet-the-team .team-pastry p {
     color: #101010;
     font-size: 1.9rem;
 }
 
-#meet-the-team .team-pastry img {
+#mtt .meet-the-team .team-pastry img {
     float: right;
     height: 15%;
     width: 25%;
     padding-top: 20px;
 }
 
-#meet-the-team .team2 h3 {
+#mtt .meet-the-team .team2 h3 {
     color: #101010;
     font-size: 2.5rem;
     padding: 10px 50px;
@@ -956,12 +960,12 @@ img {
     margin: 0 auto;
 }
 
-#meet-the-team .team2 p {
+#mtt .meet-the-team .team2 p {
     color: #101010;
     font-size: 1.9rem;
 }
 
-#meet-the-team .team2 img {
+#mtt .meet-the-team .team2 img {
     float: right;
     height: 25%;
     width: 25%;
