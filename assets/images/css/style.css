@@ -887,7 +887,9 @@ img {
     font-size: 4rem;
 }
 
-#meet-the-team .team h3 {
+/* Kitchen Team */
+
+#meet-the-team .team1 h3 {
     color: #101010;
     font-size: 2.5rem;
     padding: 10px 50px;
@@ -895,18 +897,75 @@ img {
     margin: 0 auto;
 }
 
-#meet-the-team .team p {
+#meet-the-team .team1 p {
     color: #101010;
     font-size: 1.9rem;
 }
 
-#meet-the-team .team img {
+#meet-the-team .team1 img {
     float: right;
-    height: 50%;
-    width: 50%;
+    height: 15%;
+    width: 25%;
 }
 
+#meet-the-team .team-sous h3 {
+    color: #101010;
+    font-size: 2.5rem;
+    padding: 10px 50px;
+    text-align: center;
+    padding-top: 20px;
+}
 
+#meet-the-team .team-sous p {
+    color: #101010;
+    font-size: 1.9rem;
+}
+
+#meet-the-team .team-sous img {
+    float: right;
+    height: 15%;
+    width: 25%;
+    padding-top: 20px;
+}
+
+#meet-the-team .team-pastry h3 {
+    color: #101010;
+    font-size: 2.5rem;
+    padding: 10px 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#meet-the-team .team-pastry p {
+    color: #101010;
+    font-size: 1.9rem;
+}
+
+#meet-the-team .team-pastry img {
+    float: right;
+    height: 15%;
+    width: 25%;
+    padding-top: 20px;
+}
+
+#meet-the-team .team2 h3 {
+    color: #101010;
+    font-size: 2.5rem;
+    padding: 10px 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#meet-the-team .team2 p {
+    color: #101010;
+    font-size: 1.9rem;
+}
+
+#meet-the-team .team2 img {
+    float: right;
+    height: 25%;
+    width: 25%;
+}
 
 
 /* Keyframes */
