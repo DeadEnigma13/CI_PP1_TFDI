@@ -867,6 +867,7 @@ img {
     text-align: center;
     color: #96a274;
     font-size: 5rem;
+    padding: 10px;
 }
 
 #meet-the-team p {
@@ -890,14 +891,22 @@ img {
     color: #101010;
     font-size: 2.5rem;
     padding: 10px 50px;
+    text-align: center;
     margin: 0 auto;
 }
 
 #meet-the-team .team p {
     color: #101010;
     font-size: 1.9rem;
-
 }
+
+#meet-the-team .team img {
+    float: right;
+    height: 50%;
+    width: 50%;
+}
+
+
 
 
 /* Keyframes */
