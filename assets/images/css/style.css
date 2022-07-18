@@ -968,8 +968,49 @@ img {
 #mtt .meet-the-team .team2 img {
     float: right;
     height: 25%;
-    width: 25%;
+    width: 20%;
 }
+
+#mtt .meet-the-team .team-waiter h3 {
+    color: #101010;
+    font-size: 2.5rem;
+    padding: 20px 50px 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#mtt .meet-the-team .team-waiter p {
+    color: #101010;
+    font-size: 1.9rem;
+}
+
+#mtt .meet-the-team .team-waiter img {
+    float: right;
+    height: 20%;
+    width: 15%;
+    padding-top: 20px;
+}
+
+#mtt .meet-the-team .team-waiteress h3 {
+    color: #101010;
+    font-size: 2.5rem;
+    padding: 20px 50px 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#mtt .meet-the-team .team-waiteress p {
+    color: #101010;
+    font-size: 1.9rem;
+}
+
+#mtt .meet-the-team .team-waiteress img {
+    float: right;
+    height: 20%;
+    width: 15%;
+    padding-top: 20px;
+}
+
 
 
 /* Keyframes */
