@@ -864,7 +864,7 @@ img {
 /* Meet The Team Page */
 
 #mtt {
-    min-height: 900px;
+    min-height: 1325px;
     position: relative;
 }
 
@@ -910,7 +910,7 @@ img {
 #mtt .meet-the-team .team1 img {
     float: right;
     height: 15%;
-    width: 25%;
+    width: 45%;
 }
 
 #mtt .meet-the-team .team-sous h3 {
@@ -929,7 +929,7 @@ img {
 #mtt .meet-the-team .team-sous img {
     float: right;
     height: 15%;
-    width: 25%;
+    width: 45%;
     padding-top: 20px;
 }
 
@@ -949,7 +949,7 @@ img {
 #mtt .meet-the-team .team-pastry img {
     float: right;
     height: 15%;
-    width: 25%;
+    width: 45%;
     padding-top: 20px;
 }
 
@@ -971,7 +971,7 @@ img {
 #mtt .meet-the-team .team2 img {
     float: right;
     height: 25%;
-    width: 20%;
+    width: 45%;
 }
 
 #mtt .meet-the-team .team-waiter h3 {
@@ -990,7 +990,7 @@ img {
 #mtt .meet-the-team .team-waiter img {
     float: right;
     height: 25%;
-    width: 20%;
+    width: 45%;
     padding-top: 20px;
 }
 
@@ -1010,11 +1010,9 @@ img {
 #mtt .meet-the-team .team-waitress img {
     float: right;
     height: 25%;
-    width: 20%;
+    width: 45%;
     padding-top: 20px;
 }
-
-
 
 
 
@@ -1198,6 +1196,78 @@ img {
         margin-top: 25px;
     }
 
+/* Meet The Team Section */
+
+#mtt {
+    min-height: 1050px;
+    position: relative;
+}
+
+#mtt .meet-the-team .team1 img {
+    float: right;
+    height: 15%;
+    width: 25%;
+}
+
+#mtt .meet-the-team .team1 p {
+    color: #101010;
+    font-size: 2.5rem;
+}
+
+#mtt .meet-the-team .team2 img {
+    float: right;
+    height: 15%;
+    width: 25%;
+}
+
+#mtt .meet-the-team .team2 p {
+    color: #101010;
+    font-size: 2.5rem;
+}
+
+#mtt .meet-the-team .team-waiter img {
+    float: right;
+    height: 25%;
+    width: 25%;
+}
+
+#mtt .meet-the-team .team-waiter p {
+    color: #101010;
+    font-size: 2.5rem;
+}
+
+#mtt .meet-the-team .team-waitress img {
+    float: right;
+    height: 25%;
+    width: 25%;
+}
+
+#mtt .meet-the-team .team-waitress p {
+    color: #101010;
+    font-size: 2.5rem;
+}
+
+#mtt .meet-the-team .team-sous img {
+    float: right;
+    height: 15%;
+    width: 25%;
+}
+
+#mtt .meet-the-team .team-sous p {
+    color: #101010;
+    font-size: 2.5rem;
+}
+
+#mtt .meet-the-team .team-pastry img {
+    float: right;
+    height: 15%;
+    width: 25%;
+}
+
+#mtt .meet-the-team .team-pastry p {
+    color: #101010;
+    font-size: 2.5rem;
+}
     
 }
 
@@ -1235,8 +1305,6 @@ img {
         flex-basis: 22%;
         margin: 1.5%;
     }
-
-    /* Booking Section */
 
     /* Booking Section */ 
 
@@ -1289,5 +1357,96 @@ img {
         margin-top: 25px;
     }
 
+    /* Meet The Team Section */
+
+    #mtt .meet-the-team .team h1 {
+        color: #96a274;
+        font-size: 5rem;
+    }
+
+    #mtt .meet-the-team h1 {
+        text-align: center;
+        color: #96a274;
+        font-size: 6.5rem;
+        padding: 10px;
+    }
+
+    #mtt .meet-the-team p {
+        text-align: center;
+        color: #101010;
+        font-size: 3.2rem;
+        padding: 10px;
+    }
+
+    #mtt {
+        min-height: 1050px;
+        position: relative;
+    }
+    
+    #mtt .meet-the-team .team1 img {
+        float: right;
+        height: 15%;
+        width: 25%;
+    }
+    
+    #mtt .meet-the-team .team1 p {
+        color: #101010;
+        font-size: 3rem;
+    }
+    
+    #mtt .meet-the-team .team2 img {
+        float: right;
+        height: 15%;
+        width: 25%;
+    }
+    
+    #mtt .meet-the-team .team2 p {
+        color: #101010;
+        font-size: 3rem;
+    }
+    
+    #mtt .meet-the-team .team-waiter img {
+        float: right;
+        height: 25%;
+        width: 25%;
+    }
+    
+    #mtt .meet-the-team .team-waiter p {
+        color: #101010;
+        font-size: 3rem;
+    }
+    
+    #mtt .meet-the-team .team-waitress img {
+        float: right;
+        height: 25%;
+        width: 25%;
+    }
+    
+    #mtt .meet-the-team .team-waitress p {
+        color: #101010;
+        font-size: 3rem;
+    }
+    
+    #mtt .meet-the-team .team-sous img {
+        float: right;
+        height: 15%;
+        width: 25%;
+    }
+    
+    #mtt .meet-the-team .team-sous p {
+        color: #101010;
+        font-size: 3rem;
+    }
+    
+    #mtt .meet-the-team .team-pastry img {
+        float: right;
+        height: 15%;
+        width: 25%;
+    }
+    
+    #mtt .meet-the-team .team-pastry p {
+        color: #101010;
+        font-size: 3rem;
+    }
 
 }
