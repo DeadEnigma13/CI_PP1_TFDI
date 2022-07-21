@@ -117,7 +117,7 @@ img {
     margin-left: 20px;
 }
 
-#header .header.container {
+#header .header-container {
     min-height: 8vh;
     background-color: rgb(31, 30, 30, 0.75);
 }
@@ -238,7 +238,7 @@ img {
 /* Hero Section */
 
 #hero {
-    background-image: url(/assets/images/The\ Feathered\ Duck\ Inn\ Hero\ Image.jpg);
+    background-image: url(/assets/images/The-Feathered-Duck-Inn-Hero-Image.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -354,7 +354,7 @@ img {
     flex-direction: column;
     padding: 30px;
     border-radius: 15px;
-    background-image: url(/assets/images/The\ Feathered\ Duck\ Inn\ Hero\ Image.jpg);
+    background-image: url(/assets/images/Feathered-Duck-Inn-Restaurant.jpg);
     background-size: cover;
     margin: 15px 5%;
     position: relative;
@@ -370,7 +370,7 @@ img {
     flex-direction: column;
     padding: 30px;
     border-radius: 15px;
-    background-image: url(/assets/images/Feathered\ Duck\ Inn\ Restaurant\ 2.jpg);
+    background-image: url(/assets/images/Feathered-Duck-Inn-Restaurant-2.jpg);
     background-size: cover;
     margin: 15px 5%;
     position: relative;
@@ -385,7 +385,7 @@ img {
     flex-direction: column;
     padding: 30px;
     border-radius: 15px;
-    background-image: url(/assets/images/Feathered\ Duck\ Inn\ Team.jpg);
+    background-image: url(/assets/images/Feathered-Duck-Inn-Team.jpg);
     background-size: cover;
     margin: 15px 5%;
     position: relative;
