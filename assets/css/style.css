@@ -199,7 +199,6 @@ img {
     cursor: pointer;
     transform: scale(.9);
     margin-right: 20px;
-    z-index: 1;
 }
 
 #header .hamburger .bar {
