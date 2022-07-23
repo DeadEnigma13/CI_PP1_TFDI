@@ -238,7 +238,7 @@ img {
 /* Hero Section */
 
 #hero {
-    background-image: url(/assets/images/the-feathered-duck-inn-hero-image.jpg);
+    background-image: url(assets/images/the-feathered-duck-inn-hero-image.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -354,7 +354,7 @@ img {
     flex-direction: column;
     padding: 30px;
     border-radius: 15px;
-    background-image: url(/assets/images/feathered-duck-inn-restaurant.jpg);
+    background-image: url(assets/images/feathered-duck-inn-restaurant.jpg);
     background-size: cover;
     margin: 15px 5%;
     position: relative;
@@ -370,7 +370,7 @@ img {
     flex-direction: column;
     padding: 30px;
     border-radius: 15px;
-    background-image: url(/assets/images/feathered-duck-inn-restaurant-2.jpg);
+    background-image: url(assets/images/feathered-duck-inn-restaurant-2.jpg);
     background-size: cover;
     margin: 15px 5%;
     position: relative;
@@ -385,7 +385,7 @@ img {
     flex-direction: column;
     padding: 30px;
     border-radius: 15px;
-    background-image: url(/assets/images/feathered-duck-inn-team.jpg);
+    background-image: url(assets/images/feathered-duck-inn-team.jpg);
     background-size: cover;
     margin: 15px 5%;
     position: relative;
