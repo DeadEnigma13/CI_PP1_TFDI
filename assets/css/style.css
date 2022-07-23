@@ -186,12 +186,12 @@ img {
 /* Hamburger Section */
 
 #header .hamburger {
+    position: relative;
     height: 60px;
     width: 60px;
     display: inline-block;
     border: 3px solid #96a274;
     border-radius: 50%;
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -199,6 +199,7 @@ img {
     cursor: pointer;
     transform: scale(.9);
     margin-right: 20px;
+    z-index: 1;
 }
 
 #header .hamburger .bar {
