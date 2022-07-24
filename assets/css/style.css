@@ -866,7 +866,7 @@ img {
 /* Meet The Team Page */
 
 #mtt {
-    min-height: 1450px;
+    min-height: 2000px;
     position: relative;
 }
 
@@ -885,8 +885,14 @@ img {
 }
 
 #mtt .meet-the-team .team {
-    float: left;
-    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    margin: 30px auto;
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 #mtt .meet-the-team .team h1 {
@@ -1207,7 +1213,7 @@ img {
 /* Meet The Team Section */
 
 #mtt {
-    min-height: 1200px;
+    min-height: 1275px;
     position: relative;
 }
 
