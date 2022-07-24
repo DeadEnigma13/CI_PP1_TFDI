@@ -1217,6 +1217,17 @@ img {
     position: relative;
 }
 
+#mmt .meet-the-team .team {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    margin: 30px auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
 #mtt .meet-the-team .team1 img {
     float: right;
     height: 15%;
@@ -1426,6 +1437,17 @@ img {
     }
 
     /* Meet The Team Section */
+
+    #mmt .meet-the-team .team {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 80%;
+        margin: 30px auto;
+        overflow: hidden;
+        border-radius: 10px;
+    }
 
     #mtt .meet-the-team .team h1 {
         color: #96a274;
