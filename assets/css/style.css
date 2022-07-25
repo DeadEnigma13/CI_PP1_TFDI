@@ -1026,19 +1026,21 @@ img {
         max-width: 1500px;
         margin: 0 auto;
         padding: 20px;
+        position: relative;
+        min-height: 250px;
     }
     /* Error Page */
     #error {
         background-color: #feffe9;
         position: relative;
-        min-height: 450px;
+        min-height: 600px;
     }
     #error .error-img {
         width: fit-content;
-        height: 250px;
+        height: fit-content;
         justify-content: center;
         margin: auto;
-        padding-top: 40px;
+        padding-top: 100px;
     }
     #error .cta {
         display: inline-block;
@@ -1052,6 +1054,7 @@ img {
         margin-top: 20px;
         transition: .3s ease;
         transition-property: background-color, color;
+        text-align: center;
     }
 }
 /* Media queries for tablet */
