@@ -1026,6 +1026,14 @@ img {
         margin: 0 auto;
         padding: 20px;
     }
+    /* Error Page */
+    #error .error-img {
+        width: fit-content;
+        height: 250px;
+        justify-content: center;
+        margin: auto;
+        padding-top: 40px;
+    }
 }
 /* Media queries for tablet */
 @media only screen and (min-width:768px) {
