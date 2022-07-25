@@ -881,6 +881,7 @@ img {
 /* Error Page */
 #error {
     background-color: #feffe9;
+    position: relative;
 }
 #error .error-btn {
     margin: auto;
@@ -907,7 +908,7 @@ img {
 }
 #error .error-img {
     width: fit-content;
-    height: 750px;
+    height: 700px;
     justify-content: center;
     margin: auto;
 }
@@ -1027,6 +1028,11 @@ img {
         padding: 20px;
     }
     /* Error Page */
+    #error {
+        background-color: #feffe9;
+        position: relative;
+        min-height: 450px;
+    }
     #error .error-img {
         width: fit-content;
         height: 250px;
@@ -1283,6 +1289,18 @@ img {
     margin: 0 auto;
     text-decoration: underline;
 }
+/* Error Page */
+#error {
+    background-color: #feffe9;
+    position: relative;
+    min-height: 980px;
+}
+#error .error-img {
+    width: fit-content;
+    min-height: 650px;
+    justify-content: center;
+    margin: auto;
+}
 }
 /* Media Queries for Desktop */
 @media only screen and (min-width: 1200px){
@@ -1491,5 +1509,17 @@ img {
         text-align: center;
         margin: 0 auto;
         text-decoration: underline;
+    }
+    /* Error Page */
+    #error {
+        background-color: #feffe9;
+        position: relative;
+        min-height: 700px;
+    }
+    #error .error-img {
+        width: fit-content;
+        min-height: 500px;
+        justify-content: center;
+        margin: auto;
     }
 }
