@@ -896,7 +896,7 @@ img {
 }
 /* Media Queries for Small Phones */
 @media only screen and (min-width: 320px){
-    /* Hero */
+    /* Hero Section */
     #hero h1 {
         display: block;
         font-size: 6rem;
@@ -904,6 +904,23 @@ img {
         color: transparent;
         animation: text_reveal .5s ease forwards;
         animation-delay: 1.5s;
+    }
+    /* Nav Bar Section */
+    #header .nav-list ul a::after {
+        content: attr(data-after);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) scale(0);
+        color: #96a274;
+        font-size: 5rem;
+        letter-spacing: 10px;
+        z-index: -1;
+        transition: .3s ease letter-spacing;
+    }
+    #header .nav-list ul li:hover a::after {
+        transform: translate(-50%, -50%) scale(1);
+        letter-spacing: initial;
     }
     /* Blog Section */
     #blog .blog {
@@ -929,7 +946,7 @@ img {
     #blog .col-right h1 {
         text-align: center;
     }
-    /* About Us*/
+    /* About Us Section */
     #about-us {
         padding: 20px;
     }
@@ -941,7 +958,7 @@ img {
         font-family: 'IM Fell English SC', sans-serif;
         justify-content: center;
     }
-    /* Contact Us */
+    /* Contact Us Section */
     #contact-us .contact-item h2 {
         font-size: 1.3rem;
         line-height: 2rem;
@@ -951,7 +968,7 @@ img {
         width: 100%;
         padding: 30px 30px;     
     }
-    /* Meet The Team */
+    /* Meet The Team Section */
     #mtt .meet-the-team .team {
         display: flex;
         align-items: center;
@@ -968,7 +985,7 @@ img {
         font-size: 2rem;
         padding: 10px;
     }
-    /* Footer */
+    /* Footer Section */
     #footer .footer-container {
         flex-direction: column;
         text-align: center;
