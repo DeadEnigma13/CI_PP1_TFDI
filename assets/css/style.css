@@ -878,6 +878,39 @@ img {
     width: 45%;
     padding-top: 20px;
 }
+/* Error Page */
+#error {
+    background-color: #feffe9;
+}
+#error .error-btn {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+#error .cta {
+    display: inline-block;
+    padding: 10px 30px;
+    color: #101010;
+    background-color: transparent;
+    border: 2px solid #101010;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    margin-top: 30px;
+    transition: .3s ease;
+    transition-property: background-color, color;
+}
+#error .cta:hover {
+        color: white;
+        background-color: #96a274;
+}
+#error .error-img {
+    width: fit-content;
+    height: 750px;
+    justify-content: center;
+    margin: auto;
+}
 /* Keyframes */
 @keyframes text_reveal_box {
     50%{
