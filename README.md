@@ -73,16 +73,20 @@
 2. As a first-user, looking for information to the food being provided at the restaurant and have a clear vision of pricing.
 3. As a first-user, I want to be able to download a menu to view offline at any time before booking a table.
 4. As a first-user, I want to find where the restaurant is located.
-
 #### Returning User
 5. As a returning user, getting to know the staff is something that I find interesting, being able to see who is working there beforehand should be provided.
 6. As a returning user, I want be able to book a table for 6 people on a specific date and get confirmation of my booking.
 7. As a returning user, I want to be able to contact the restuarant via email or phone about queiries I may have.
 8. As a returning user, I want to find the social media page for the restaurant.
 9. As a returning user, I want to know the latest news such as new menu or special offers.
-
 #### Site Owner
 10. As the site owner, I want new and existing users to find news about special offers and new menus.
 11. As the site owner, I want users to get an understanding for the restaurant and staff.
 12. As the site owner, I want users to find the relevant contact information.
+## Design
 
+### Design Choices
+The website has been designed so customers get to know what the restaurant looks like beforehand so when they visit they feel welcome.
+Parts of the design have been made to look modern but old fashioned to resemble the restaurant theme.
+
+### Colour
