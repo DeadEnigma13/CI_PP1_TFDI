@@ -1,7 +1,7 @@
 # The Feathered Duck Inn
 (Developer: Zack Owen)
 
-![Mockup image](docs/TFDI%20Responsive%20Design.png)
+![Mockup image](docs/tfdi-responsive-design.png)
 
 [Live webpage](https://deadenigma13.github.io/CI_PP1_TFDI/)
 
@@ -90,3 +90,22 @@ The website has been designed so customers get to know what the restaurant looks
 Parts of the design have been made to look modern but old fashioned to resemble the restaurant theme.
 
 ### Colour
+The colour scheme was picked to give a natural warm vibe but not being too bright, I narrowed down the colours by using Adobe Color. I tested the colours using WebAIM to make sure the contrast was easy on the eye for user.
+
+![Colour Scheme](docs/adobe-colour-picker.png)
+
+
+### Fonts
+IM Fell English SC with Nanum Gothic as fallback were used for the heading and paragraphs as this gave a rustic but yet modern feeling to the restaurant design.
+
+### Structure
+The page is structured in a user friendly, easy to learn way so users who arrive on to the site know exactly how to navigate the page without any difficulty. The logo is placed on the left hand side and the navigation links to the right which is a very common layout for webpages.
+The website contains 5 seperate pages:
+- A home page with news and contact information.
+- A book now page for table bookings.
+- A menus page.
+- A meet the team page
+- A contact page with a map api.
+
+### Wireframes
+The project templates and wireframes for The Feathered Duck Inn restaurant were designed using [Balsamiq](https://balsamiq.com/). The design layout on every page is fairly identical which was a creative decision made whilst coding to keep it easy for the user.
