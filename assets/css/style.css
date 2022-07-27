@@ -632,6 +632,22 @@ img {
     line-height: 2rem;
     font-weight: 500;
 }
+/* Contact Us Map Section */
+#contact-us-2 {
+    position: relative;
+    min-height: 750px;
+    width: 100%;
+    padding: 40px 100px;
+}
+#contact-us-2 .contact-us-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+#contact-us-2 .contact-us-title h1 {
+    color: #96a274;
+}
 /* Footer Section */
 #footer {
     background-image: linear-gradient(60deg, slategrey 0%, #101010 100%)
