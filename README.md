@@ -109,3 +109,85 @@ The website contains 5 seperate pages:
 
 ### Wireframes
 The project templates and wireframes for The Feathered Duck Inn restaurant were designed using [Balsamiq](https://balsamiq.com/). The design layout on every page is fairly identical which was a creative decision made whilst coding to keep it easy for the user.
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Tools
+- Git
+- GitHub
+- Gitpod
+- Balsamiq
+- Google Fonts
+- Adobe Color
+- Font Awesome
+- Favicon<span>.</span>io
+
+## Features
+The webpage consists of five pages and 9 features
+
+### Logo and Navigation Bar
+- Featured on all five pages
+- The navigation bar is fully responsive and changes to a toggle menu (Hamburger menu) on small screens and includes links to the Homepage, Book Now Page, Menus Page, Meet The Team Page and the Contact Us Page.
+- It allows users to navigate the webpage with ease.
+- The navbar displays what option the user is currently hovering over or clicking on.
+- User stories covered: 1
+
+![Logo and navbar](docs/features/logo-and-navbar.png)
+
+### Hero Image 
+- Introduces the user to the webpage with a large image showing what the restaurant looks like
+- Hero image displays the name of the restaurant and an immediate option to book a table for returning users
+
+![Hero Image](docs/features/hero-image.png)
+
+### About Us
+- Gives a description about the restaurant and its facilities with an image of the bar and restaurant.
+- User stories covered: 11.
+
+![About Us](docs/features/about-us.png)
+
+### Footer
+- Featured on all pages
+- Consists of the name of the restaurant followed by social media accounts with clickable icons.
+- User stories covered: 8
+
+![Footer](docs/features/footer.png)
+
+### News Blog
+- Allows users to see when the menu has been changed and any special offers that may be on.
+- Gives users an option to download the latest menu to view offline.
+- User stories covered: 1, 3, 9, 10
+
+![News Blog](docs/features/news.png)
+
+### Menu
+- Gives the users an overview on the menu in 5 sections: Starters, Mains, Classics, Desserts & Sides.
+- Each section is attached with an image of one of the items on the menu.
+- Features pricing.
+- User stories covered: 1, 2
+
+![Menus](docs/features/menu.png)
+
+### Contact Us
+- Gives users information on how to contact the restaurant with any queries or issues.
+- User stories covered: 7, 12
+
+![Contact Us](docs/features/contact-us.png)
+
+### Map
+- Shows the restaurant location on an embeded Google Map
+- User stories covered: 4
+
+![Map]()
+
+### Book Now 
+- Users can book a table by filling out a form with their details followed by a confirmation screen.
+- User stories covered: 6
+
+![Book Now](docs/features/book-now.png)
+
