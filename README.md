@@ -183,7 +183,7 @@ The webpage consists of five pages and 9 features
 - Shows the restaurant location on an embeded Google Map
 - User stories covered: 4
 
-![Map]()
+![Map](docs/features/contact-map-api.png)
 
 ### Book Now 
 - Users can book a table by filling out a form with their details followed by a confirmation screen.
