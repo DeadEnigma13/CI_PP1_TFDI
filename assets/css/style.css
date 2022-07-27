@@ -255,6 +255,7 @@ img {
     margin-top: 30px;
     transition: .3s ease;
     transition-property: background-color, color;
+    font-family: 'IM Fell English SC', sans-serif;
 }
 #hero .cta:hover {
     color: white;
@@ -1140,6 +1141,7 @@ img {
     #hero .cta {
         font-size: 3rem;
         padding: 20px 60px;
+        font-family: 'IM Fell English SC', sans-serif;
     }
     /* Hero Section */
     #hero h1 {
