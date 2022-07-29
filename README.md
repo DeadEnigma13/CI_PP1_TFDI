@@ -214,3 +214,132 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS style of the 
 <details><summary>style.css</summary>
 <img src="docs/validation/css-validation.png">
 </details>
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+
+### Performance
+Google lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
+
+<details><summary>Home</summary>
+<img src="docs/validation/home-performance.png">
+</details>
+<details><summary>Book Now</summary>
+<img src="docs/validation/book-now-performance.png">
+</details>
+<details><summary>Menus</summary>
+<img src="docs/validation/menus-performance.png">
+</details>
+<details><summary>Meet The Team</summary>
+<img src="docs/validation/meet-the-team-performance.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="docs/validation/contact-us-performance.png">
+</details>
+
+### Performing tests on various devices
+The website was tested on the following devices
+- Lenovo ThinkPad Pro Laptop
+- Google Pixel 6 Pro
+- Oppo Find X5 Pro
+- Samsung Tablet
+
+In addition, the website was tested using Goolge Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Brower compatibility
+The website was tested on the following browsers.
+- Google Chrome
+- Duck Duck Go
+- Microsoft Edge
+
+### Testing user stories
+
+1. As a first-user, being able to navigate the website with ease and be able to understand the information on the page.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navbar | Navigate to the book now page, menus page, meet the team page, contact us page | To navigate to different pages using the navbar | Works as expected | 
+
+
+2. As a first-user, looking for information to the food being provided at the restaurant and have a clear vision of pricing.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the menu page | See food provided and clear prices displayed | Works as expected |
+
+
+3. As a first-user, I want to be able to download a menu to view offline at any time before booking a table.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Downloadable Menu | Scroll down to blog section on home page for download menu | Download menu to view offline | Works as expected |
+
+
+4. As a first-user, I want to find where the restaurant is located.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the contact us page and locate the google map | Locate a map showing the restaurant location | Works as expected |
+| Footer Contact Information | Navigate to the contact us page at the bottom of the homepage for restaurant address | Find the address of the restaurant | Works as expected |
+
+
+5. As a returning user, getting to know the staff is something that I find interesting, being able to see who is working there beforehand should be provided.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to the about us page | Find description of staff who work at the restaurant | Works as expected |
+
+
+6. As a returning user, I want be able to book a table for 6 people on a specific date and get confirmation of my booking.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Book Table | Navigate to the book now page | Find form to fill for booking a table | Works as expected |
+
+
+7. As a returning user, I want to be able to contact the restuarant via email or phone about queiries I may have.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Us | Navigate to the contact us page | Find form to fill for query | Works as expected |
+| Contact Us on home page | Scroll down to contact us section on home page | Find details for email address/phone number | Works as expected |
+
+
+8. As a returning user, I want to find the social media page for the restaurant.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | Navigate to the bottom of any page for social media links | Find social links | Works as expected |
+
+
+9. As a returning user, I want to know the latest news such as new menu or special offers.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Blog | Navigate to the blog section on home page | Find information on events and/or special offers and new menus | Works as expected |
+
+
+10. As the site owner, I want new and existing users to find news about special offers and new menus.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Blog | Navigate to the blog section on home page | Find information on events and/or special offers and new menus | Works as expected |
+
+
+11. As the site owner, I want users to get an understanding for the restaurant and staff.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to the about us page | Find description of staff who work at the restaurant | Works as expected |
+| About Us on homepage | Navigate to the about us section on home page | Find description on the restaurant | Works as expeceted |
+
+
+12. As the site owner, I want users to find the relevant contact information.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Us on home page | Scroll down to contact us section on home page | Find details for email address/phone number | Works as expected |
+
+
+
+
