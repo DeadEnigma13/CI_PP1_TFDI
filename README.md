@@ -110,6 +110,32 @@ The website contains 5 seperate pages:
 ### Wireframes
 The project templates and wireframes for The Feathered Duck Inn restaurant were designed using [Balsamiq](https://balsamiq.com/). The design layout on every page is fairly identical which was a creative decision made whilst coding to keep it easy for the user.
 
+<details><summary>Home</summary>
+<img src="docs/wireframes/home-wireframes.png">
+<img src="docs/wireframes/home-ipad-wireframes.png">
+<img src="docs/wireframes/home-mobile-wireframes.png">
+</details>
+<details><summary>Book Now</summary>
+<img src="docs/wireframes/book-now-wireframes.png">
+<img src="docs/wireframes/book-now-ipad-wireframes.png">
+<img src="docs/wireframes/book-now-mobile-wireframes.png">
+</details>
+<details><summary>Menus</summary>
+<img src="docs/wireframes/menus-wireframes.png">
+<img src="docs/wireframes/menus-ipad-wireframes.png">
+<img src="docs/wireframes/menus-mobile-wireframes.png">
+</details>
+<details><summary>Meet The Team</summary>
+<img src="docs/wireframes/meet-the-team-wireframes.png">
+<img src="docs/wireframes/meet-the-team-ipad-wireframes.png">
+<img src="docs/wireframes/meet-the-team-mobile-wireframes.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="docs/wireframes/contact-us-wireframes.png">
+<img src="docs/wireframes/contact-us-ipad-wireframes.png">
+<img src="docs/wireframes/contact-us-mobile-wireframes.png">
+</details>
+
 ## Technologies Used
 
 ### Languages
