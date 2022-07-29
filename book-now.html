@@ -48,35 +48,36 @@
         </div>
         <form id="booking" action="#">
             <div class="your-name">
-                <p id="textbox_label">Your Name</p>
-            <input type="text" id=textbox_label aria-labelledy="textbox_label1" placeholder="Your Name:">
+                <label for="name" class="form-label">Your Name</label>
+                <input type="text" class="form-control" id="name" name="name" required>
             </div>
             <div class="email">
-                <p>Your Email</p>
-            <input type="email" placeholder="Your Email:">
+                <label for="email" class="form-label">Email Address</label>
+                <input type="text" class="form-control" id="email" name="email" required>
             </div>
             <div class="date">
-                <p>Date</p>
-            <input type="Date">
+                <label for="date" class="form-label">Date</label>
+                <input type="date" class="form-control" id="date" name="date" required>
             </div>
             <div class="time">
-                <p>Time</p>
-            <input type="Time">
+                <label for="time" class="form-label">Time</label>
+                <input type="time" class="form-control" id="time" name="time" required>
             </div>
             <div class="people">
-                <p>How many people?</p>
-                <select name="Select">
-                <option value="">1 Person</option>
-                <option value="2">2 People</option>
-                <option value="3">3 People</option>
-                <option value="4">4 People</option>
-                <option value="5">5 People</option>
-                <option value="6">6 People</option>
-                <option value="6+">Over 6 People</option>
+                <label for="people">How Many People</label>
+
+                <select id="select" required>
+                <option label="1 person">1 Person</option>
+                <option label="2 people">2 People</option>
+                <option label="3 people">3 People</option>
+                <option label="4 people">4 People</option>
+                <option label="5 people">5 People</option>
+                <option label="6 people">6 People</option>
+                <option label="6 or more people">6 Or More People</option>
                 </select>
             </div>
             <div class="submit">
-                <a href="complete-booking.html" class="button cta">Submit</a>
+                <input type="submit" class="button cta">
             </div>
          </form>
     </section>

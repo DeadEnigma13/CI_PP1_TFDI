@@ -774,33 +774,49 @@ img {
     flex-direction: column;
     margin: 0 auto;
     width: 40%;
+    font-size: 2.5rem;
+    color: #96a274;
+    font-weight: 500;
 }
 #booking .email {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
     width: 40%;
+    font-size: 2.5rem;
+    color: #96a274;
+    font-weight: 500;
 }
 #booking .date {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
     width: 40%;
+    font-size: 2.5rem;
+    color: #96a274;
+    font-weight: 500;
 }
 #booking .time {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
     width: 40%;
+    font-size: 2.5rem;
+    color: #96a274;
+    font-weight: 500;
 }
 #booking .people {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
     width: 40%;
+    font-size: 2.5rem;
+    color: #96a274;
+    font-weight: 500;
 }
 #booking .submit {
     justify-content: center;
+    cursor: pointer;
 }
 #booking .cta {
         display: inline-block;
@@ -813,6 +829,7 @@ img {
         margin-top: 30px;
         transition: .3s ease;
         transition-property: background-color, color;
+        cursor: pointer;
 }
 /* Booking Complete Form */
 #hero .hero-container-1 p {
