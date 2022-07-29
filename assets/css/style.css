@@ -83,6 +83,12 @@ img {
     text-transform: uppercase;
     color: #96a274;
 }
+.social-note a {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #96a274;
+    text-decoration: none;
+}
 /* Header Section */
 #homepage {
     position: fixed;
