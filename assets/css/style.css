@@ -279,6 +279,7 @@ img {
     font-size: 5rem;
     font-weight: 300;
     color: #96a274;
+    background-color: black;
     margin-bottom: 25px;
     text-transform: uppercase;
     letter-spacing: .2rem;
@@ -386,36 +387,42 @@ img {
 #about-us .about-us-item h2 {
     font-size: 2.9rem;
     color: #96a274;
+    background-color: black;
     margin-bottom: 10px;
     text-transform: uppercase;
 }
 #about-us .about-us-item p {
     font-size: 1.7rem;
     color: white;
+    background-color: black;
     text-align: left;
     line-height: 1.9rem;
 }
 #about-us .about-us-item-2 h2 {
     font-size: 2.9rem;
     color: #96a274;
+    background-color: black;
     margin-bottom: 10px;
     text-transform: uppercase;
 }
 #about-us .about-us-item-2 p {
     font-size: 1.7rem;
     color: white;
+    background-color: black;
     text-align: left;
     line-height: 1.9rem;
 }
 #about-us .about-us-item-3 h2 {
     font-size: 2.9rem;
     color: #96a274;
+    background-color: black;
     margin-bottom: 10px;
     text-transform: uppercase;
 }
 #about-us .about-us-item-3 p {
     font-size: 1.7rem;
     color: white;
+    background-color: black;
     text-align: left;
     line-height: 1.9rem;
 }
@@ -424,6 +431,7 @@ img {
     font-size: 5rem;
     font-weight: 300;
     color: #96a274;
+    background-color: black;
     margin-bottom: 10px;
     text-transform: uppercase;
     letter-spacing: .2rem;
@@ -538,6 +546,7 @@ img {
     letter-spacing: .3rem;
     margin-bottom: 20px;
     color: #96a274;
+    background-color: black;
 }
 #blog .col-right p {
     margin-bottom: 20px;
@@ -597,6 +606,7 @@ img {
     font-size: 5rem;
     font-weight: 300;
     color: #96a274;
+    background-color: black;
     margin-bottom: 10px;
     text-transform: uppercase;
     letter-spacing: .2rem;
@@ -667,6 +677,7 @@ img {
 .contact-form h1 {
     margin-bottom: 10px;
     color: #96a274;
+    background-color: black;
     font-size: 3rem;
 }
 .contact-form .form #fname{
@@ -701,6 +712,7 @@ img {
 }
 .contact-form .form .form-label {
     color: #96a274;
+    background-color: black;
     font-size: 2.8rem;
     font-weight: lighter;
 }
@@ -786,6 +798,7 @@ img {
 }
 #booking p {
     color: #96a274;
+    background-color: black;
     text-align: center;
     font-size: 3rem;
     justify-content: center;
@@ -797,6 +810,7 @@ img {
     width: 40%;
     font-size: 2.5rem;
     color: #96a274;
+    background-color: black;
     font-weight: 500;
 }
 #booking .email {
@@ -806,6 +820,7 @@ img {
     width: 40%;
     font-size: 2.5rem;
     color: #96a274;
+    background-color: black;
     font-weight: 500;
 }
 #booking .date {
@@ -815,6 +830,7 @@ img {
     width: 40%;
     font-size: 2.5rem;
     color: #96a274;
+    background-color: black;
     font-weight: 500;
 }
 #booking .time {
@@ -824,6 +840,7 @@ img {
     width: 40%;
     font-size: 2.5rem;
     color: #96a274;
+    background-color: black;
     font-weight: 500;
 }
 #booking .people {
@@ -833,6 +850,7 @@ img {
     width: 40%;
     font-size: 2.5rem;
     color: #96a274;
+    background-color: black;
     font-weight: 500;
 }
 #booking .submit {
@@ -866,6 +884,7 @@ img {
 #mtt .meet-the-team h1 {
     text-align: center;
     color: #96a274;
+    background-color: black;
     font-size: 5rem;
     padding: 10px;
 }
@@ -887,6 +906,7 @@ img {
 }
 #mtt .meet-the-team .team h1 {
     color: #96a274;
+    background-color: black;
     font-size: 4rem;
 }
 /* Kitchen Team */
