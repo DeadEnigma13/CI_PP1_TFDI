@@ -447,3 +447,10 @@ In order of appearance:
 - Credit to How2Create for the Form and Map layout https://www.youtube.com/watch?v=p9Ubg6Mqq6w&ab_channel=How2Create
 - Credit to codeSTACKr for the hamburger menu https://www.youtube.com/watch?v=dIyVTjJAkLw&ab_channel=codeSTACKr
 - 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+
+## Acknowledgements
+I would like to take this opportunity to thank:
+- My mentor Mo Shami for his wonderful feedback, advice, guidance and support.
+- My partner Chloe for her support, free time away from the child and understanding.
+- Everyone over in the Code Instiute slack community for their help, advice and support and providing peer reviews on my PP1 and peer code review.
+- My parents for providing me with some of the images and their help with the menu.
