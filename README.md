@@ -427,7 +427,23 @@ You can clone the repository by following these steps:
 
 ## Credits
 Images not referenced below are owned by the developer.
-Credit to https://www.youtube.com/watch?v=dIyVTjJAkLw&ab_channel=codeSTACKr for the hamburger menu
 
+### Media
+- [hero-image](assets/images/the-feathered-duck-inn-hero-image.jpg) a photo by <a href="https://studioinsign.ro/en/proiect/the-publisher-restaurant-industrial-design-style/">
+- [news](assets/images/feathered-duck-inn-news.jpg) a photo by <a href="https://www.northernbeaches.nsw.gov.au/sites/default/files/styles/gi--main-thumbnail/public/images/general-information/latest-news/latest-news.jpg">
+- [about-us-bar-image](assets/images/feathered-duck-inn-restaurant.jpg) a photo by <a href="https://studioinsign.ro/en/proiect/the-publisher-restaurant-industrial-design-style/">
+- [about-us-restaurant-image](assets/images/feathered-duck-inn-restaurant-2.jpg) a photo by <a href="https://studioinsign.ro/en/proiect/the-publisher-restaurant-industrial-design-style/">
+- [about-us-meet-the-team-image](assets/images/feathered-duck-inn-team.jpg) a photo by <a href="https://www.insurancejournal.com/news/national/2019/10/01/541521.htm">
+- [sous-chef](assets/images/sous-chef.webp) a photo by <a href="https://chefschool.ca/culinary-diploma-programs/">
+- [pastry-chef](assets/images/pastry-chef.jpg) a photo by <a href="https://www.harpersbazaararabia.com/culture/interiors/chef-talks-chef-sahar-parham-al-awadhi-shares-her-unique-journey-with-the-culinary-world">
+- [waiter](assets/images/waiter.png) a photo by <a href="https://anytimechefs.com.au/wp-content/uploads/2021/03/waiter-480x480.png">
+- [waitress](assets/images/waitress.jpg) a photo by <a href="https://www.thehrdigest.com/wp-content/uploads/2020/10/retain-restaurant-workers-COVID-19-crisis.jpg">
+- [raspberry-parfair](assets/images/raspberry-parfait.jpg) a photo by <a href="https://bunnyswarmoven.net/raspberry-parfait-dessert/">
+- [onion-rings](assets/images/onion-rings.jpg) a photo by <a href="https://oversixtydev.blob.core.windows.net/media/9242/onion-rings.jpg">
+- [chicken-ceaser-salad](assets/images/chicken-ceasar-salad.jpg) a photo by <a href="http://bevcooks.com/wp-content/uploads/2011/11/ceasar7.jpg">
 
-
+### Code
+In order of appearance:
+- Credit to How2Create for the Form and Map layout https://www.youtube.com/watch?v=p9Ubg6Mqq6w&ab_channel=How2Create
+- Credit to codeSTACKr for the hamburger menu https://www.youtube.com/watch?v=dIyVTjJAkLw&ab_channel=codeSTACKr
+- 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
