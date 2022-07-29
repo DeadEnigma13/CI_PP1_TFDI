@@ -193,5 +193,18 @@ The webpage consists of five pages and 9 features
 
 ## Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors and 1 warning showing.
+<details><summary>Home</summary>
+<img src="docs/validation/home-validation.png">
+</details>
+<details><summary>Book Now</summary>
+<img src="docs/validation/book-now-validation.png">
+</details>
+<details><summary>Menus</summary>
+<img src="docs/validation/menus-validation.png">
+</details>
+<details><summary>Meet The Team</summary>
+<img src="docs/validation/meet-the-team-validation.png">
+</details>
 <details><summary>Contact Us</summary>
 <img src="docs/validation/contact-us-validation.png">
+</details>
