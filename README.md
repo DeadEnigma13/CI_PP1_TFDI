@@ -260,6 +260,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Navbar | Navigate to the book now page, menus page, meet the team page, contact us page | To navigate to different pages using the navbar | Works as expected | 
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/contact-us-user-stories.png">
+</details>
 
 2. As a first-user, looking for information to the food being provided at the restaurant and have a clear vision of pricing.
 
@@ -267,6 +270,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Menu | Navigate to the menu page | See food provided and clear prices displayed | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/menu-user-stories.png">
+</details>
 
 3. As a first-user, I want to be able to download a menu to view offline at any time before booking a table.
 
@@ -274,6 +280,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Downloadable Menu | Scroll down to blog section on home page for download menu | Download menu to view offline | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/download-menu-user-stories.png">
+</details>
 
 4. As a first-user, I want to find where the restaurant is located.
 
@@ -282,6 +291,10 @@ The website was tested on the following browsers.
 | Map | Navigate to the contact us page and locate the google map | Locate a map showing the restaurant location | Works as expected |
 | Footer Contact Information | Navigate to the contact us page at the bottom of the homepage for restaurant address | Find the address of the restaurant | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/contact-us-user-stories.png">
+<img src="docs/user-story-testing/contact-us-2-user-stories.png">
+</details>
 
 5. As a returning user, getting to know the staff is something that I find interesting, being able to see who is working there beforehand should be provided.
 
@@ -289,6 +302,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | About Us | Navigate to the about us page | Find description of staff who work at the restaurant | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/meet-the-team-user-stories.png">
+</details>
 
 6. As a returning user, I want be able to book a table for 6 people on a specific date and get confirmation of my booking.
 
@@ -296,6 +312,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Book Table | Navigate to the book now page | Find form to fill for booking a table | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/book-a-table-user-stories.png">
+</details>
 
 7. As a returning user, I want to be able to contact the restuarant via email or phone about queiries I may have.
 
@@ -304,6 +323,10 @@ The website was tested on the following browsers.
 | Contact Us | Navigate to the contact us page | Find form to fill for query | Works as expected |
 | Contact Us on home page | Scroll down to contact us section on home page | Find details for email address/phone number | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/query-user-stories.png">
+<img src="docs/user-story-testing/query-2-user-stories.png">
+</details>
 
 8. As a returning user, I want to find the social media page for the restaurant.
 
@@ -311,6 +334,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Footer | Navigate to the bottom of any page for social media links | Find social links | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/social-media-user-stories.png">
+</details>
 
 9. As a returning user, I want to know the latest news such as new menu or special offers.
 
@@ -318,6 +344,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Blog | Navigate to the blog section on home page | Find information on events and/or special offers and new menus | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/latest-news-user-stories.png">
+</details>
 
 10. As the site owner, I want new and existing users to find news about special offers and new menus.
 
@@ -325,6 +354,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Blog | Navigate to the blog section on home page | Find information on events and/or special offers and new menus | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/latest-news-user-stories.png">
+</details>
 
 11. As the site owner, I want users to get an understanding for the restaurant and staff.
 
@@ -333,6 +365,10 @@ The website was tested on the following browsers.
 | About Us | Navigate to the about us page | Find description of staff who work at the restaurant | Works as expected |
 | About Us on homepage | Navigate to the about us section on home page | Find description on the restaurant | Works as expeceted |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/meet-the-team-user-stories.png">
+<img src="docs/user-story-testing/about-us-user-stories.png">
+</details>
 
 12. As the site owner, I want users to find the relevant contact information.
 
@@ -340,6 +376,9 @@ The website was tested on the following browsers.
 |-------------|------------|---------------------|-------------------|
 | Contact Us on home page | Scroll down to contact us section on home page | Find details for email address/phone number | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/query-2-user-stories.png">
+</details>
 
 
 
