@@ -441,6 +441,7 @@ The website was tested on the following browsers.
 | The user can submit a contact form input without a message | Add required attribute to message input field | 
 | When viewed on tablets, the meet the team page has whitespace after the footer | Set min-height to 1250px |
 | When viewed on desktops, the meet the team page has whitespace after the footer | Set min-height to 1250px |
+| When on book now page, clicking on menu would take you back to the homepage | changed link to fix issue |
 
 ## Deployment 
 The website was deployed using GitHub Pages by following these steps:
