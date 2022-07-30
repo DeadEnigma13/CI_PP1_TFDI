@@ -260,6 +260,9 @@ All pages pass with 0 errors.
 <details><summary>Contact Us</summary>
 <img src="docs/validation/contact-us-accessibility.png">
 </details>
+<details><summary>Error 404</summary>
+<img src="docs/validation/error-404-accessibility.png">
+</details>
 
 ### Performance
 Google lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
