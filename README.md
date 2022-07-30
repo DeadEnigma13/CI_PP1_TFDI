@@ -83,6 +83,7 @@
 10. As the site owner, I want new and existing users to find news about special offers and new menus.
 11. As the site owner, I want users to get an understanding for the restaurant and staff.
 12. As the site owner, I want users to find the relevant contact information.
+13. As the site owner, I want users to be able to find their way back to the mainpage from the error 404 page
 ## Design
 
 ### Design Choices
@@ -420,6 +421,16 @@ The website was tested on the following browsers.
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/query-2-user-stories.png">
+</details>
+
+13. As the site owner, I want users to be able to find their way back to the mainpage from the error 404 page
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Error 404 | Click back to home page | Return to home page from error 404 | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/error-404-user-stories.png">
 </details>
 
 
